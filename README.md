@@ -31,7 +31,7 @@ I build spatial analysis pipelines and remote sensing applications for marine an
 
 - **[SCB_HabitatSuitability](https://github.com/sci-youngblood/SCB_HabitatSuitability)** — Deployed GEE app: marine habitat suitability index for the Southern California Bight
 - **[WCO_Tag_Analysis](https://github.com/sci-youngblood/WCO_Tag_Analysis)** — CINMS predator telemetry analysis pipeline
-- - **[PIRAT_GEE](https://github.com/sci-youngblood/PIRAT_GEE)** — Mapping the Pacific Islands Region Acoustic Telemetry receiver network across Hawai'i
+- **[PIRAT_GEE](https://github.com/sci-youngblood/PIRAT_GEE)** — Mapping the Pacific Islands Region Acoustic Telemetry receiver network across Hawai'i
 - **[thesis](https://github.com/sci-youngblood/thesis)** — California Current ecological forecasting under climate variability
 
 ---
